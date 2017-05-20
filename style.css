@@ -1,0 +1,10 @@
+input[type="text"] {
+  width: 150px;
+  display: block;
+  margin-bottom: 10px;
+  background-color: white;
+}
+
+li {
+  display: inline;
+}
